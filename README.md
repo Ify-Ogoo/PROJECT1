@@ -39,7 +39,8 @@ o	Some High School: 65.1
 o	High School: 63.09
 
 
---Conclusion and Recomendation
+Conclusion and Recomendation
+
 The analysis suggests that parental level of education, Test preparation course, lunch type, has a great impact on the academic performance of the students. Students from more educationally advantaged families and those belonging to Group E demonstrate superior outcomes. Female students consistently perform better than their male counterparts in writing, highlighting possible gender-based differences in literacy skills. While the male genders performed better in Maths.
--Students are encouraged to complete a test-preparation course before they take the main test, this will assist them earn better grades. The school can subsidise lunch for all students and serve everyone standard lunches; there is a direct relationship between the quality of food and students' performances.
+Students are encouraged to complete a test-preparation course before they taking the main test, this will assist them earn better grades. The school can subsidise lunch for all students and serve everyone standard lunches; there is a direct relationship between the quality of food and students' performances.
 
