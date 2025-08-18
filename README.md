@@ -1,18 +1,33 @@
 -Analysis of Students Performance
+
+
 Project Overview
+
 -This project is aimed at determining various factors affecting students' performance in school. The analysis showed that parental level of education, the type lunch taken by the students, race/ethnicity, level of preparedness has a major impact on the Students Performance.
+
+
 -Data Source
 -https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data
+
+
 Methods
 •	Data Cleaning and Preparation: The dataset was cleaned to standardise data format, and Average score and Grade columns was included.
 •	Data Visualisation: Power BI was used to create interactive dashboards and visual reports to highlight key points such as total average, total average by parental level of education, total average by grade and level of preparation by course etc
+
+
 -Tools
 1.	Microsoft Excel
 2.	SQL Server
 3.	Power BI
+
+   
 -Insights and Findings
+
+
 •	Test Preparedness Course: Those who completed a test preparedness course performed better than those who didn't (72.7 to 65.0 average scores).
+
 •	Total Average of the Students 67.7
+
 •	Total Average by Maths Score shows Male Students performed better than the Female Students 68 to 63 average scores.
 •	Parents' Level of Education: Students' average performances were equated to the level of their parents' educational level.
 o	Master's Degree: 73.5
