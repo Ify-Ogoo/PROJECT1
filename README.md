@@ -1,12 +1,12 @@
-Analysis of Students Performance
+***Analysis of Students Performance
 
 
-Project Overview
+**Project Overview
 
 This project is aimed at determining various factors affecting students' performance in school. The analysis showed that parental level of education, the type lunch taken by the students, race/ethnicity, level of preparedness has a major impact on the Students Performance.
 
 
-Data Source
+**Data Source
 
 https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data
 
@@ -22,7 +22,7 @@ Tools
 3.	Power BI
 
    
-Insights and Findings
+**Insights and Findings
 
 •	Test Preparedness Course: Those who completed a test preparedness course performed better than those who didn't (72.7 to 65.0 average scores).
 
