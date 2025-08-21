@@ -1,17 +1,17 @@
-***Analysis of Students Performance
+#Analysis of Students Performance
 
 
-**Project Overview
+##Project Overview
 
 This project is aimed at determining various factors affecting students' performance in school. The analysis showed that parental level of education, the type lunch taken by the students, race/ethnicity, level of preparedness has a major impact on the Students Performance.
 
 
-**Data Source
+##Data Source
 
 https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data
 
 
-Methods
+##Methods
 •	Data Cleaning and Preparation: The dataset was cleaned to standardise data format, and Average score and Grade columns was included.
 •	Data Visualisation: Power BI was used to create interactive dashboards and visual reports to highlight key points such as total average, total average by parental level of education, total average by grade and level of preparation by course etc
 
